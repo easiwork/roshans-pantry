@@ -5,6 +5,7 @@
       {
         "id": "ref-20260924-01",
         "name": "red onion",
+        "category": "vegetables",
         "quantity": {
           "amount": 0,
           "unit": "remaining stock"
@@ -19,6 +20,7 @@
       {
         "id": "ref-20260924-02",
         "name": "asparagus",
+        "category": "vegetables",
         "quantity": {
           "amount": 0,
           "unit": "remaining stock"
@@ -33,6 +35,7 @@
       {
         "id": "ref-20260924-03",
         "name": "baby carrots",
+        "category": "vegetables",
         "quantity": {
           "amount": 1,
           "unit": "small packet"
@@ -49,6 +52,7 @@
       {
         "id": "ref-20260924-04",
         "name": "tomatoes",
+        "category": "vegetables",
         "quantity": {
           "amount": 0,
           "unit": "remaining stock"
@@ -65,6 +69,7 @@
       {
         "id": "ref-20260924-05",
         "name": "ginger",
+        "category": "vegetables",
         "quantity": null,
         "storage": "refrigerator",
         "snapshotStatus": "not_reconfirmed_oct8",
@@ -75,6 +80,7 @@
       {
         "id": "ref-20260924-06",
         "name": "shrimp",
+        "category": "protein",
         "quantity": {
           "amount": 0.6666666666666666,
           "unit": "remaining fraction (original total unspecified)"
@@ -91,6 +97,7 @@
       {
         "id": "ref-20260924-07",
         "name": "sardines in tomato sauce",
+        "category": "protein",
         "quantity": null,
         "storage": "pantry; assumed dry or sealed shelf-stable",
         "snapshotStatus": "not_reconfirmed_oct8",
@@ -101,6 +108,7 @@
       {
         "id": "ref-20260924-08",
         "name": "tandoori chicken breasts",
+        "category": "protein",
         "quantity": {
           "amount": 0,
           "unit": "remaining stock"
@@ -114,6 +122,7 @@
       {
         "id": "ref-20260924-09",
         "name": "breakfast pork sausage",
+        "category": "protein",
         "quantity": {
           "amount": 0,
           "unit": "remaining stock"
@@ -127,6 +136,7 @@
       {
         "id": "ref-20260924-10",
         "name": "ground beef",
+        "category": "protein",
         "quantity": {
           "amount": 0,
           "unit": "remaining stock"
@@ -140,6 +150,7 @@
       {
         "id": "ref-20260924-11",
         "name": "chili beans",
+        "category": "protein",
         "quantity": {
           "amount": 0,
           "unit": "remaining stock"
@@ -153,6 +164,7 @@
       {
         "id": "ref-20260924-12",
         "name": "spam",
+        "category": "protein",
         "quantity": null,
         "storage": "pantry; assumed dry or sealed shelf-stable",
         "snapshotStatus": "not_reconfirmed_oct8",
@@ -163,6 +175,7 @@
       {
         "id": "ref-20260924-13",
         "name": "eggs",
+        "category": "protein",
         "quantity": {
           "amount": 0,
           "unit": "old record"
@@ -179,6 +192,7 @@
       {
         "id": "ref-20260924-14",
         "name": "ham",
+        "category": "protein",
         "quantity": {
           "amount": 0,
           "unit": "remaining stock"
@@ -192,6 +206,7 @@
       {
         "id": "ref-20260924-15",
         "name": "bananas",
+        "category": "fruit",
         "quantity": {
           "amount": 0,
           "unit": "remaining stock"
@@ -205,6 +220,7 @@
       {
         "id": "ref-20260924-16",
         "name": "blackberries",
+        "category": "fruit",
         "quantity": {
           "amount": 0,
           "unit": "remaining stock"
@@ -219,6 +235,7 @@
       {
         "id": "ref-20260924-17",
         "name": "strawberries",
+        "category": "fruit",
         "quantity": {
           "amount": 0,
           "unit": "remaining stock"
@@ -233,6 +250,7 @@
       {
         "id": "ref-20260924-18",
         "name": "egg noodles",
+        "category": "carbs",
         "quantity": null,
         "storage": "refrigerator expected; unconfirmed",
         "snapshotStatus": "not_reconfirmed_oct8",
@@ -243,6 +261,7 @@
       {
         "id": "ref-20260924-19",
         "name": "linguine",
+        "category": "carbs",
         "quantity": {
           "amount": 0.5,
           "unit": "lb"
@@ -259,6 +278,7 @@
       {
         "id": "ref-20260924-20",
         "name": "rice",
+        "category": "carbs",
         "quantity": null,
         "storage": "pantry; assumed dry or sealed shelf-stable",
         "snapshotStatus": "not_reconfirmed_oct8",
@@ -269,6 +289,7 @@
       {
         "id": "ref-20260924-21",
         "name": "flour",
+        "category": "carbs",
         "quantity": null,
         "storage": "pantry; assumed dry or sealed shelf-stable",
         "snapshotStatus": "not_reconfirmed_oct8",
@@ -279,6 +300,7 @@
       {
         "id": "ref-20260924-22",
         "name": "bread",
+        "category": "carbs",
         "quantity": {
           "amount": 0,
           "unit": "remaining stock"
@@ -292,6 +314,7 @@
       {
         "id": "ref-20260924-23",
         "name": "milk",
+        "category": "dairy",
         "quantity": {
           "amount": 0.5,
           "unit": "gallon"
@@ -308,6 +331,7 @@
       {
         "id": "ref-20260924-24",
         "name": "American cheese",
+        "category": "dairy",
         "quantity": {
           "amount": 0,
           "unit": "remaining stock"
@@ -321,6 +345,7 @@
       {
         "id": "ref-20260924-25",
         "name": "coconut milk",
+        "category": "miscellaneous",
         "quantity": null,
         "storage": "pantry; assumed dry or sealed shelf-stable",
         "snapshotStatus": "not_reconfirmed_oct8",
@@ -331,6 +356,7 @@
       {
         "id": "ref-20260924-26",
         "name": "pesto sauce",
+        "category": "miscellaneous",
         "quantity": {
           "amount": 0.5,
           "unit": "cup"
@@ -347,6 +373,7 @@
       {
         "id": "receipt-20260927-01",
         "name": "farmed salmon",
+        "category": "protein",
         "quantity": {
           "amount": 0,
           "unit": "remaining stock"
@@ -360,6 +387,7 @@
       {
         "id": "receipt-20260927-02",
         "name": "napa cabbage",
+        "category": "vegetables",
         "quantity": {
           "amount": 0.5,
           "unit": "head"
@@ -374,6 +402,7 @@
       {
         "id": "receipt-20260927-03",
         "name": "peeled garlic",
+        "category": "vegetables",
         "quantity": {
           "amount": 1,
           "unit": "lb"
@@ -387,6 +416,7 @@
       {
         "id": "receipt-20260927-04",
         "name": "chicken bouillon powder",
+        "category": "miscellaneous",
         "quantity": {
           "amount": 8,
           "unit": "oz"
@@ -400,6 +430,7 @@
       {
         "id": "receipt-20260927-05",
         "name": "shrimp chips",
+        "category": "miscellaneous",
         "quantity": {
           "amount": 7.05,
           "unit": "oz"
@@ -413,6 +444,7 @@
       {
         "id": "receipt-20260927-06",
         "name": "aloe vera drink",
+        "category": "miscellaneous",
         "quantity": {
           "amount": 1.5,
           "unit": "L"
@@ -426,6 +458,7 @@
       {
         "id": "receipt-20260927-07",
         "name": "green kiwi",
+        "category": "fruit",
         "quantity": {
           "amount": 0,
           "unit": "remaining stock"
@@ -440,6 +473,7 @@
       {
         "id": "receipt-20260927-08",
         "name": "Japanese-style seaweed salad",
+        "category": "vegetables",
         "quantity": {
           "amount": 0,
           "unit": "remaining stock"
@@ -454,6 +488,7 @@
       {
         "id": "receipt-20260927-09",
         "name": "silken tofu",
+        "category": "protein",
         "quantity": {
           "amount": 0,
           "unit": "unused tofu"
@@ -467,6 +502,7 @@
       {
         "id": "receipt-20260927-10",
         "name": "ground pork",
+        "category": "protein",
         "quantity": {
           "amount": 0,
           "unit": "remaining stock"
@@ -481,6 +517,7 @@
       {
         "id": "receipt-20260927-11",
         "name": "frozen udon",
+        "category": "carbs",
         "quantity": {
           "amount": 6,
           "unit": "servings"
@@ -497,6 +534,7 @@
       {
         "id": "receipt-20260927-12",
         "name": "fresh mint",
+        "category": "vegetables",
         "quantity": null,
         "storage": "refrigerator",
         "snapshotStatus": "not_reconfirmed_oct8",
@@ -507,6 +545,7 @@
       {
         "id": "receipt-20260927-13",
         "name": "American cheese",
+        "category": "dairy",
         "quantity": {
           "amount": 1,
           "unit": "package"
@@ -523,6 +562,7 @@
       {
         "id": "receipt-20260927-14",
         "name": "white miso",
+        "category": "miscellaneous",
         "quantity": {
           "amount": 13.2,
           "unit": "oz"
@@ -536,6 +576,7 @@
       {
         "id": "receipt-20260927-15",
         "name": "scallions",
+        "category": "vegetables",
         "quantity": {
           "amount": 0,
           "unit": "remaining stock"
@@ -550,6 +591,7 @@
       {
         "id": "receipt-20260927-16",
         "name": "whole garlic",
+        "category": "vegetables",
         "quantity": null,
         "storage": "cool dry pantry",
         "snapshotStatus": "not_reconfirmed_oct8",
@@ -560,6 +602,7 @@
       {
         "id": "leftover-20260927-udon",
         "name": "gochujang tofu udon with ground pork",
+        "category": "leftovers",
         "quantity": {
           "amount": 0,
           "unit": "remaining stock"
@@ -573,6 +616,7 @@
       {
         "id": "leftover-20260927-soup",
         "name": "miso soup with tofu and green onions",
+        "category": "leftovers",
         "quantity": {
           "amount": 0,
           "unit": "remaining stock"
@@ -586,6 +630,7 @@
       {
         "id": "frozen-salmon-20261002",
         "name": "frozen salmon",
+        "category": "protein",
         "quantity": {
           "amount": 2,
           "unit": "servings"
@@ -601,6 +646,7 @@
       {
         "id": "frozen-beef-20261002",
         "name": "frozen ground beef",
+        "category": "protein",
         "quantity": null,
         "storage": "freezer",
         "snapshotStatus": "not_reconfirmed_oct8",
@@ -610,6 +656,7 @@
       {
         "id": "butter-20261002",
         "name": "butter",
+        "category": "dairy",
         "quantity": null,
         "storage": "refrigerator assumed",
         "snapshotStatus": "not_reconfirmed_oct8",
@@ -619,6 +666,7 @@
       {
         "id": "oil-20261002",
         "name": "cooking oil",
+        "category": "miscellaneous",
         "quantity": null,
         "storage": "pantry assumed",
         "snapshotStatus": "not_reconfirmed_oct8",
@@ -628,6 +676,7 @@
       {
         "id": "snapshot-20261008-1",
         "name": "heavy cream",
+        "category": "dairy",
         "quantity": {
           "amount": 0.5,
           "unit": "pint"
@@ -643,6 +692,7 @@
       {
         "id": "snapshot-20261008-4",
         "name": "sausage",
+        "category": "protein",
         "quantity": null,
         "storage": "refrigerator",
         "status": "available",
@@ -656,6 +706,7 @@
       {
         "id": "snapshot-20261008-5",
         "name": "potato bread",
+        "category": "carbs",
         "quantity": {
           "amount": 0.5,
           "unit": "loaf"
@@ -671,6 +722,7 @@
       {
         "id": "snapshot-20261008-6",
         "name": "eggs",
+        "category": "protein",
         "quantity": {
           "amount": 12,
           "unit": "eggs"
@@ -686,6 +738,7 @@
       {
         "id": "snapshot-20261008-7",
         "name": "sliced ham",
+        "category": "protein",
         "quantity": {
           "amount": 32,
           "unit": "oz"
@@ -701,6 +754,7 @@
       {
         "id": "snapshot-20261008-10",
         "name": "hummus",
+        "category": "miscellaneous",
         "quantity": {
           "amount": 0.5,
           "unit": "container"
@@ -716,6 +770,7 @@
       {
         "id": "snapshot-20261008-14",
         "name": "corn on the cob",
+        "category": "vegetables",
         "quantity": {
           "amount": 4,
           "unit": "ears"
@@ -731,6 +786,7 @@
       {
         "id": "snapshot-20261008-15",
         "name": "bell peppers",
+        "category": "vegetables",
         "quantity": {
           "amount": 3,
           "unit": "peppers"
@@ -746,6 +802,7 @@
       {
         "id": "snapshot-20261008-16",
         "name": "salad mix",
+        "category": "vegetables",
         "quantity": {
           "amount": 1,
           "unit": "package"
