@@ -1,0 +1,789 @@
+{
+  "pantry": {
+    "updatedOn": "2026-10-08",
+    "items": [
+      {
+        "id": "ref-20260924-01",
+        "name": "red onion",
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
+        "storage": "refrigerator (recommended after prep)",
+        "status": "depleted",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-24",
+        "estimatedUseBy": "2026-09-27",
+        "estimateType": "prepared_quality_review"
+      },
+      {
+        "id": "ref-20260924-02",
+        "name": "asparagus",
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
+        "storage": "refrigerator (recommended after prep)",
+        "status": "depleted",
+        "reportedOn": "2026-09-24",
+        "quantityConfirmedAt": "2026-09-27T16:40:10-04:00",
+        "estimatedUseBy": "2026-09-25",
+        "estimateType": "prepared_quality_review"
+      },
+      {
+        "id": "ref-20260924-03",
+        "name": "baby carrots",
+        "quantity": {
+          "amount": 1,
+          "unit": "small packet"
+        },
+        "storage": "refrigerator",
+        "status": "available",
+        "snapshotStatus": "confirmed_oct8",
+        "reportedOn": "2026-09-24",
+        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "presenceConfirmedOn": "2026-10-08",
+        "estimatedUseBy": "2026-09-27",
+        "estimateType": "prepared_quality_review"
+      },
+      {
+        "id": "ref-20260924-04",
+        "name": "tomatoes",
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
+        "storage": "counter until ripe, then refrigerator",
+        "status": "depleted",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-24",
+        "quantityConfirmedAt": "2026-09-27T16:40:10-04:00",
+        "presenceConfirmedOn": "2026-10-02",
+        "estimatedUseBy": "2026-09-27",
+        "estimateType": "quality_review"
+      },
+      {
+        "id": "ref-20260924-05",
+        "name": "ginger",
+        "quantity": null,
+        "storage": "refrigerator",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-24",
+        "estimatedUseBy": "2026-10-06",
+        "estimateType": "quality_review"
+      },
+      {
+        "id": "ref-20260924-06",
+        "name": "shrimp",
+        "quantity": {
+          "amount": 0.6666666666666666,
+          "unit": "remaining fraction (original total unspecified)"
+        },
+        "storage": "freezer",
+        "status": "available",
+        "snapshotStatus": "confirmed_oct8",
+        "reportedOn": "2026-09-24",
+        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "presenceConfirmedOn": "2026-10-08",
+        "estimatedUseBy": "2027-03-22",
+        "estimateType": "quality_review"
+      },
+      {
+        "id": "ref-20260924-07",
+        "name": "sardines in tomato sauce",
+        "quantity": null,
+        "storage": "pantry; assumed dry or sealed shelf-stable",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-24",
+        "estimatedUseBy": "2026-10-22",
+        "estimateType": "label_review_not_expiry"
+      },
+      {
+        "id": "ref-20260924-08",
+        "name": "tandoori chicken breasts",
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
+        "storage": "refrigerator required; placement not yet confirmed",
+        "status": "depleted",
+        "reportedOn": "2026-09-24",
+        "estimatedUseBy": "2026-09-27",
+        "estimateType": "conditional_cooked_use_or_freeze_target"
+      },
+      {
+        "id": "ref-20260924-09",
+        "name": "breakfast pork sausage",
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
+        "storage": "freezer",
+        "status": "depleted",
+        "reportedOn": "2026-09-24",
+        "estimatedUseBy": null,
+        "estimateType": "needs_freeze_history"
+      },
+      {
+        "id": "ref-20260924-10",
+        "name": "ground beef",
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
+        "storage": "refrigerator",
+        "status": "depleted",
+        "reportedOn": "2026-09-24",
+        "estimatedUseBy": "2026-09-24",
+        "estimateType": "conditional_safety_deadline"
+      },
+      {
+        "id": "ref-20260924-11",
+        "name": "chili beans",
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
+        "storage": "pantry; assumed dry or sealed shelf-stable",
+        "status": "depleted",
+        "reportedOn": "2026-09-24",
+        "estimatedUseBy": "2026-10-22",
+        "estimateType": "label_review_not_expiry"
+      },
+      {
+        "id": "ref-20260924-12",
+        "name": "spam",
+        "quantity": null,
+        "storage": "pantry; assumed dry or sealed shelf-stable",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-24",
+        "estimatedUseBy": "2026-10-22",
+        "estimateType": "label_review_not_expiry"
+      },
+      {
+        "id": "ref-20260924-13",
+        "name": "eggs",
+        "quantity": {
+          "amount": 0,
+          "unit": "old record"
+        },
+        "storage": "refrigerator",
+        "status": "depleted",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-24",
+        "quantityConfirmedAt": "2026-09-27T23:18:27-04:00",
+        "presenceConfirmedOn": "2026-10-02",
+        "estimatedUseBy": "2026-10-13",
+        "estimateType": "quality_review"
+      },
+      {
+        "id": "ref-20260924-14",
+        "name": "ham",
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
+        "storage": "refrigerator",
+        "status": "depleted",
+        "reportedOn": "2026-09-24",
+        "estimatedUseBy": "2026-09-25",
+        "estimateType": "review_type_and_label"
+      },
+      {
+        "id": "ref-20260924-15",
+        "name": "bananas",
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
+        "storage": "counter",
+        "status": "depleted",
+        "reportedOn": "2026-09-24",
+        "estimatedUseBy": "2026-09-27",
+        "estimateType": "quality_review"
+      },
+      {
+        "id": "ref-20260924-16",
+        "name": "blackberries",
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
+        "storage": "refrigerator",
+        "status": "depleted",
+        "reportedOn": "2026-09-24",
+        "quantityConfirmedAt": "2026-09-24T11:02:47-04:00",
+        "estimatedUseBy": "2026-09-25",
+        "estimateType": "quality_review"
+      },
+      {
+        "id": "ref-20260924-17",
+        "name": "strawberries",
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
+        "storage": "refrigerator",
+        "status": "depleted",
+        "reportedOn": "2026-09-24",
+        "quantityConfirmedAt": "2026-09-24T11:02:47-04:00",
+        "estimatedUseBy": "2026-09-25",
+        "estimateType": "quality_review"
+      },
+      {
+        "id": "ref-20260924-18",
+        "name": "egg noodles",
+        "quantity": null,
+        "storage": "refrigerator expected; unconfirmed",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-24",
+        "estimatedUseBy": null,
+        "estimateType": "needs_cooking_date"
+      },
+      {
+        "id": "ref-20260924-19",
+        "name": "linguine",
+        "quantity": {
+          "amount": 0.5,
+          "unit": "lb"
+        },
+        "storage": "refrigerator",
+        "status": "available",
+        "snapshotStatus": "confirmed_oct8",
+        "reportedOn": "2026-09-24",
+        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "presenceConfirmedOn": "2026-10-08",
+        "estimatedUseBy": null,
+        "estimateType": "label_review_not_expiry"
+      },
+      {
+        "id": "ref-20260924-20",
+        "name": "rice",
+        "quantity": null,
+        "storage": "pantry; assumed dry or sealed shelf-stable",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-24",
+        "estimatedUseBy": "2026-10-22",
+        "estimateType": "label_review_not_expiry"
+      },
+      {
+        "id": "ref-20260924-21",
+        "name": "flour",
+        "quantity": null,
+        "storage": "pantry; assumed dry or sealed shelf-stable",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-24",
+        "estimatedUseBy": "2026-10-22",
+        "estimateType": "label_review_not_expiry"
+      },
+      {
+        "id": "ref-20260924-22",
+        "name": "bread",
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
+        "storage": "room temperature; freeze excess",
+        "status": "depleted",
+        "reportedOn": "2026-09-24",
+        "estimatedUseBy": "2026-09-27",
+        "estimateType": "quality_review"
+      },
+      {
+        "id": "ref-20260924-23",
+        "name": "milk",
+        "quantity": {
+          "amount": 0.5,
+          "unit": "gallon"
+        },
+        "storage": "refrigerator",
+        "status": "available",
+        "snapshotStatus": "confirmed_oct8",
+        "reportedOn": "2026-09-24",
+        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "presenceConfirmedOn": "2026-10-08",
+        "estimatedUseBy": "2026-09-29",
+        "estimateType": "quality_review"
+      },
+      {
+        "id": "ref-20260924-24",
+        "name": "American cheese",
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
+        "storage": "refrigerator",
+        "status": "depleted",
+        "reportedOn": "2026-09-24",
+        "estimatedUseBy": "2026-10-06",
+        "estimateType": "quality_review"
+      },
+      {
+        "id": "ref-20260924-25",
+        "name": "coconut milk",
+        "quantity": null,
+        "storage": "pantry; assumed dry or sealed shelf-stable",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-24",
+        "estimatedUseBy": "2026-10-22",
+        "estimateType": "label_review_not_expiry"
+      },
+      {
+        "id": "ref-20260924-26",
+        "name": "pesto sauce",
+        "quantity": {
+          "amount": 0.5,
+          "unit": "cup"
+        },
+        "storage": "refrigerator",
+        "status": "available",
+        "snapshotStatus": "confirmed_oct8",
+        "reportedOn": "2026-09-24",
+        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "presenceConfirmedOn": "2026-10-08",
+        "estimatedUseBy": "2026-09-27",
+        "estimateType": "quality_review"
+      },
+      {
+        "id": "receipt-20260927-01",
+        "name": "farmed salmon",
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
+        "storage": "refrigerator; user reports safely stored",
+        "status": "depleted",
+        "reportedOn": "2026-09-27",
+        "estimatedUseBy": null,
+        "estimateType": "clarify_prior_same_day_instruction"
+      },
+      {
+        "id": "receipt-20260927-02",
+        "name": "napa cabbage",
+        "quantity": {
+          "amount": 0.5,
+          "unit": "head"
+        },
+        "storage": "refrigerator",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-27",
+        "quantityConfirmedAt": "2026-09-27T23:09:38-04:00",
+        "estimatedUseBy": "2026-10-04",
+        "estimateType": "quality_review"
+      },
+      {
+        "id": "receipt-20260927-03",
+        "name": "peeled garlic",
+        "quantity": {
+          "amount": 1,
+          "unit": "lb"
+        },
+        "storage": "refrigerator",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-27",
+        "estimatedUseBy": "2026-10-04",
+        "estimateType": "label_review"
+      },
+      {
+        "id": "receipt-20260927-04",
+        "name": "chicken bouillon powder",
+        "quantity": {
+          "amount": 8,
+          "unit": "oz"
+        },
+        "storage": "pantry",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-27",
+        "estimatedUseBy": "2026-10-27",
+        "estimateType": "label_review_not_expiry"
+      },
+      {
+        "id": "receipt-20260927-05",
+        "name": "shrimp chips",
+        "quantity": {
+          "amount": 7.05,
+          "unit": "oz"
+        },
+        "storage": "pantry",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-27",
+        "estimatedUseBy": "2026-10-27",
+        "estimateType": "quality_review"
+      },
+      {
+        "id": "receipt-20260927-06",
+        "name": "aloe vera drink",
+        "quantity": {
+          "amount": 1.5,
+          "unit": "L"
+        },
+        "storage": "per label; refrigerate after opening",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-27",
+        "estimatedUseBy": "2026-10-04",
+        "estimateType": "label_review"
+      },
+      {
+        "id": "receipt-20260927-07",
+        "name": "green kiwi",
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
+        "storage": "refrigerator when ripe",
+        "status": "depleted",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-27",
+        "estimatedUseBy": "2026-10-04",
+        "estimateType": "quality_review"
+      },
+      {
+        "id": "receipt-20260927-08",
+        "name": "Japanese-style seaweed salad",
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
+        "storage": "refrigerator",
+        "status": "depleted",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-27",
+        "estimatedUseBy": "2026-09-30",
+        "estimateType": "conditional_use_target"
+      },
+      {
+        "id": "receipt-20260927-09",
+        "name": "silken tofu",
+        "quantity": {
+          "amount": 0,
+          "unit": "unused tofu"
+        },
+        "storage": "refrigerator",
+        "status": "depleted",
+        "reportedOn": "2026-09-27",
+        "estimatedUseBy": "2026-09-30",
+        "estimateType": "label_review"
+      },
+      {
+        "id": "receipt-20260927-10",
+        "name": "ground pork",
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
+        "storage": "refrigerator",
+        "status": "depleted",
+        "reportedOn": "2026-09-27",
+        "quantityConfirmedAt": "2026-09-27T23:09:38-04:00",
+        "estimatedUseBy": "2026-09-29",
+        "estimateType": "conditional_safety"
+      },
+      {
+        "id": "receipt-20260927-11",
+        "name": "frozen udon",
+        "quantity": {
+          "amount": 6,
+          "unit": "servings"
+        },
+        "storage": "freezer",
+        "status": "available",
+        "snapshotStatus": "confirmed_oct8",
+        "reportedOn": "2026-09-27",
+        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "presenceConfirmedOn": "2026-10-08",
+        "estimatedUseBy": "2027-03-27",
+        "estimateType": "quality_review"
+      },
+      {
+        "id": "receipt-20260927-12",
+        "name": "fresh mint",
+        "quantity": null,
+        "storage": "refrigerator",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-27",
+        "estimatedUseBy": "2026-10-02",
+        "estimateType": "quality_review"
+      },
+      {
+        "id": "receipt-20260927-13",
+        "name": "American cheese",
+        "quantity": {
+          "amount": 1,
+          "unit": "package"
+        },
+        "storage": "refrigerator",
+        "status": "available",
+        "snapshotStatus": "confirmed_oct8",
+        "reportedOn": "2026-09-27",
+        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "presenceConfirmedOn": "2026-10-08",
+        "estimatedUseBy": "2026-10-11",
+        "estimateType": "label_review"
+      },
+      {
+        "id": "receipt-20260927-14",
+        "name": "white miso",
+        "quantity": {
+          "amount": 13.2,
+          "unit": "oz"
+        },
+        "storage": "per label; refrigerate after opening",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-27",
+        "estimatedUseBy": "2026-10-27",
+        "estimateType": "label_review_not_expiry"
+      },
+      {
+        "id": "receipt-20260927-15",
+        "name": "scallions",
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
+        "storage": "refrigerator",
+        "status": "depleted",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-27",
+        "estimatedUseBy": "2026-10-04",
+        "estimateType": "quality_review"
+      },
+      {
+        "id": "receipt-20260927-16",
+        "name": "whole garlic",
+        "quantity": null,
+        "storage": "cool dry pantry",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-09-27",
+        "estimatedUseBy": "2026-10-27",
+        "estimateType": "quality_review"
+      },
+      {
+        "id": "leftover-20260927-udon",
+        "name": "gochujang tofu udon with ground pork",
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
+        "storage": "refrigerator required; cooling not confirmed",
+        "status": "depleted",
+        "reportedOn": "2026-09-27",
+        "estimatedUseBy": "2026-09-30",
+        "estimateType": "conditional_use_or_freeze_target"
+      },
+      {
+        "id": "leftover-20260927-soup",
+        "name": "miso soup with tofu and green onions",
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
+        "storage": "refrigerator required; cooling not confirmed",
+        "status": "depleted",
+        "reportedOn": "2026-09-27",
+        "estimatedUseBy": "2026-09-30",
+        "estimateType": "conditional_use_or_freeze_target"
+      },
+      {
+        "id": "frozen-salmon-20261002",
+        "name": "frozen salmon",
+        "quantity": {
+          "amount": 2,
+          "unit": "servings"
+        },
+        "storage": "freezer",
+        "status": "available",
+        "snapshotStatus": "confirmed_oct8",
+        "reportedOn": "2026-10-02",
+        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "presenceConfirmedOn": "2026-10-08",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "frozen-beef-20261002",
+        "name": "frozen ground beef",
+        "quantity": null,
+        "storage": "freezer",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-10-02",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "butter-20261002",
+        "name": "butter",
+        "quantity": null,
+        "storage": "refrigerator assumed",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-10-02",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "oil-20261002",
+        "name": "cooking oil",
+        "quantity": null,
+        "storage": "pantry assumed",
+        "snapshotStatus": "not_reconfirmed_oct8",
+        "reportedOn": "2026-10-02",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "snapshot-20261008-1",
+        "name": "heavy cream",
+        "quantity": {
+          "amount": 0.5,
+          "unit": "pint"
+        },
+        "storage": "refrigerator",
+        "status": "available",
+        "snapshotStatus": "confirmed_oct8",
+        "reportedOn": "2026-10-08",
+        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "presenceConfirmedOn": "2026-10-08",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "snapshot-20261008-4",
+        "name": "sausage",
+        "quantity": null,
+        "storage": "refrigerator",
+        "status": "available",
+        "snapshotStatus": "confirmed_oct8",
+        "reportedOn": "2026-10-08",
+        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "presenceConfirmedOn": "2026-10-08",
+        "estimatedUseBy": "2026-10-08",
+        "estimateType": "user_use_by"
+      },
+      {
+        "id": "snapshot-20261008-5",
+        "name": "potato bread",
+        "quantity": {
+          "amount": 0.5,
+          "unit": "loaf"
+        },
+        "storage": "room temperature",
+        "status": "available",
+        "snapshotStatus": "confirmed_oct8",
+        "reportedOn": "2026-10-08",
+        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "presenceConfirmedOn": "2026-10-08",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "snapshot-20261008-6",
+        "name": "eggs",
+        "quantity": {
+          "amount": 12,
+          "unit": "eggs"
+        },
+        "storage": "refrigerator",
+        "status": "available",
+        "snapshotStatus": "confirmed_oct8",
+        "reportedOn": "2026-10-08",
+        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "presenceConfirmedOn": "2026-10-08",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "snapshot-20261008-7",
+        "name": "sliced ham",
+        "quantity": {
+          "amount": 32,
+          "unit": "oz"
+        },
+        "storage": "refrigerator",
+        "status": "available",
+        "snapshotStatus": "confirmed_oct8",
+        "reportedOn": "2026-10-08",
+        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "presenceConfirmedOn": "2026-10-08",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "snapshot-20261008-10",
+        "name": "hummus",
+        "quantity": {
+          "amount": 0.5,
+          "unit": "container"
+        },
+        "storage": "refrigerator",
+        "status": "available",
+        "snapshotStatus": "confirmed_oct8",
+        "reportedOn": "2026-10-08",
+        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "presenceConfirmedOn": "2026-10-08",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "snapshot-20261008-14",
+        "name": "corn on the cob",
+        "quantity": {
+          "amount": 4,
+          "unit": "ears"
+        },
+        "storage": "refrigerator",
+        "status": "available",
+        "snapshotStatus": "confirmed_oct8",
+        "reportedOn": "2026-10-08",
+        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "presenceConfirmedOn": "2026-10-08",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "snapshot-20261008-15",
+        "name": "bell peppers",
+        "quantity": {
+          "amount": 3,
+          "unit": "peppers"
+        },
+        "storage": "refrigerator",
+        "status": "available",
+        "snapshotStatus": "confirmed_oct8",
+        "reportedOn": "2026-10-08",
+        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "presenceConfirmedOn": "2026-10-08",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "snapshot-20261008-16",
+        "name": "salad mix",
+        "quantity": {
+          "amount": 1,
+          "unit": "package"
+        },
+        "storage": "refrigerator",
+        "status": "available",
+        "snapshotStatus": "confirmed_oct8",
+        "reportedOn": "2026-10-08",
+        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "presenceConfirmedOn": "2026-10-08",
+        "estimatedUseBy": null
+      }
+    ]
+  },
+  "recipes": {
+    "recipes": [
+      {
+        "name": "Yaki udon \u2014 Just One Cookbook",
+        "url": "https://www.justonecookbook.com/yaki-udon/",
+        "notes": "Published stir-fry; shrimp or beef substitution supported. Soy sauce and sake/mirin or mentsuyu need availability checked; cabbage/carrot/onion as available. Candidate, not scheduled."
+      },
+      {
+        "name": "Tamagoyaki \u2014 Just One Cookbook",
+        "url": "https://www.justonecookbook.com/tamagoyaki/",
+        "notes": "Rolled omelette breakfast with rice; eggs/oil on record. Check sugar/soy sauce. Round pan usable with adapted shape; technique may need practice."
+      },
+      {
+        "name": "Teriyaki salmon \u2014 Just One Cookbook",
+        "url": "https://www.justonecookbook.com/teriyaki-salmon-recipe/",
+        "notes": "Published pan-seared salmon with glaze, serve with rice/vegetable. Soy sauce/sugar need confirmation; source allows water for sake and water+sugar for mirin (adaptation). Use145F safety target rather than source lower doneness."
+      }
+    ]
+  },
+  "shopping": {
+    "needed": []
+  },
+  "feedback": {
+    "surveys": []
+  },
+  "plan": "No current dated meal plan is published. Recipe cards are candidates, not scheduled meals."
+}
