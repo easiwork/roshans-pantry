@@ -144,6 +144,7 @@
         "storage": "refrigerator",
         "status": "depleted",
         "reportedOn": "2026-09-24",
+        "quantityConfirmedAt": "2026-10-08T16:59:51-04:00",
         "estimatedUseBy": "2026-09-24",
         "estimateType": "conditional_safety_deadline"
       },
@@ -158,6 +159,7 @@
         "storage": "pantry; assumed dry or sealed shelf-stable",
         "status": "depleted",
         "reportedOn": "2026-09-24",
+        "quantityConfirmedAt": "2026-10-08T16:59:51-04:00",
         "estimatedUseBy": "2026-10-22",
         "estimateType": "label_review_not_expiry"
       },
@@ -647,10 +649,15 @@
         "id": "frozen-beef-20261002",
         "name": "frozen ground beef",
         "category": "protein",
-        "quantity": null,
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
         "storage": "freezer",
+        "status": "depleted",
         "snapshotStatus": "not_reconfirmed_oct8",
         "reportedOn": "2026-10-02",
+        "quantityConfirmedAt": "2026-10-08T16:59:51-04:00",
         "estimatedUseBy": null
       },
       {
