@@ -265,14 +265,15 @@
         "name": "linguine",
         "category": "carbs",
         "quantity": {
-          "amount": 0.5,
-          "unit": "lb"
+          "amount": 0.25,
+          "unit": "of pasta remaining",
+          "display": "\u00bc remaining (reference amount unspecified)"
         },
         "storage": "refrigerator",
         "status": "available",
         "snapshotStatus": "confirmed_oct8",
         "reportedOn": "2026-09-24",
-        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "quantityConfirmedAt": "2026-10-08T17:26:41-04:00",
         "presenceConfirmedOn": "2026-10-08",
         "estimatedUseBy": null,
         "estimateType": "label_review_not_expiry"
