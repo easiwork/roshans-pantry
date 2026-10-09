@@ -841,6 +841,31 @@
         "name": "Teriyaki salmon \u2014 Just One Cookbook",
         "url": "https://www.justonecookbook.com/teriyaki-salmon-recipe/",
         "notes": "Published pan-seared salmon with glaze, serve with rice/vegetable. Soy sauce/sugar need confirmation; source allows water for sake and water+sugar for mirin (adaptation). Use145F safety target rather than source lower doneness."
+      },
+      {
+        "name": "Cheese omelettes \u2014 Good Food",
+        "url": "https://www.bbcgoodfood.com/recipes/cheese-omelette",
+        "notes": "Eggs, oil/butter, cheddar; use American cheese. Optional ham/pepper additions. No milk required."
+      },
+      {
+        "name": "Pan-fried ham and cheese toasties \u2014 Good Food",
+        "url": "https://www.bbcgoodfood.com/recipes/pan-fried-cheese-toastie",
+        "notes": "Bread, butter, ham, cheddar, chives. Potato bread/American cheese substituted; chives omitted. Check actual slice count."
+      },
+      {
+        "name": "Miso-butter salmon \u2014 My Three Seasons",
+        "url": "https://mythreeseasons.com/miso-butter-salmon-with-corn-puree/",
+        "notes": "Salmon, butter, miso; source corn puree includes onion/yogurt. Adaptation uses plain cooked corn or rice/vegetables. Miso not recently reconfirmed; plain butter salmon is a different fallback."
+      },
+      {
+        "name": "Garlic-butter shrimp \u2014 Damn Delicious",
+        "url": "https://damndelicious.net/2014/04/11/garlic-butter-shrimp/",
+        "notes": "Shrimp, garlic, butter, stock, lemon; parsley optional. Add udon/vegetables; noodle water or bouillon replaces stock. Lemon missing, omission reduces acidity. Shrimp fraction is not known weight."
+      },
+      {
+        "name": "Miso-butter pasta with tuna/cabbage \u2014 Just One Cookbook",
+        "url": "https://www.justonecookbook.com/miso-butter-pasta-with-tuna-cabbage/",
+        "notes": "Pasta, tuna, cabbage, garlic, oil, butter, miso, soy, mirin. Weekend udon/ham/pepper/corn/cream variations are adaptations. Soy/mirin unconfirmed, simplified sauce labeled. Weekday dry pasta/tuna/greens require shopping."
       }
     ]
   },
