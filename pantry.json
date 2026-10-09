@@ -1,6 +1,6 @@
 {
   "pantry": {
-    "updatedOn": "2026-10-08",
+    "updatedOn": "2026-10-09",
     "items": [
       {
         "id": "ref-20260924-01",
@@ -821,6 +821,36 @@
         "reportedOn": "2026-10-08",
         "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
         "presenceConfirmedOn": "2026-10-08",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "reported-2026-10-09-green-beans",
+        "name": "green beans",
+        "category": "vegetables",
+        "quantity": {
+          "amount": 1,
+          "unit": "packet"
+        },
+        "storage": "refrigerator assumed",
+        "status": "available",
+        "reportedOn": "2026-10-09",
+        "quantityConfirmedAt": "2026-10-09T12:13:34.480061-04:00",
+        "presenceConfirmedOn": "2026-10-09",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "reported-2026-10-09-baby-bella-mushrooms",
+        "name": "baby bella mushrooms",
+        "category": "vegetables",
+        "quantity": {
+          "amount": 1,
+          "unit": "packet"
+        },
+        "storage": "refrigerator assumed",
+        "status": "available",
+        "reportedOn": "2026-10-09",
+        "quantityConfirmedAt": "2026-10-09T12:13:34.480061-04:00",
+        "presenceConfirmedOn": "2026-10-09",
         "estimatedUseBy": null
       }
     ]
