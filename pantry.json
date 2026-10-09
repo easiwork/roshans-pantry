@@ -291,12 +291,14 @@
       },
       {
         "id": "ref-20260924-21",
-        "name": "flour",
+        "name": "all-purpose flour",
         "category": "carbs",
         "quantity": null,
         "storage": "pantry; assumed dry or sealed shelf-stable",
+        "status": "available",
         "snapshotStatus": "not_reconfirmed_oct8",
         "reportedOn": "2026-09-24",
+        "presenceConfirmedOn": "2026-10-09",
         "estimatedUseBy": "2026-10-22",
         "estimateType": "label_review_not_expiry"
       },
@@ -850,6 +852,83 @@
         "status": "available",
         "reportedOn": "2026-10-09",
         "quantityConfirmedAt": "2026-10-09T12:13:34.480061-04:00",
+        "presenceConfirmedOn": "2026-10-09",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "reported-2026-10-09-soy-sauce",
+        "name": "soy sauce",
+        "category": "miscellaneous",
+        "quantity": null,
+        "storage": "per package instructions; actual location unspecified",
+        "status": "available",
+        "reportedOn": "2026-10-09",
+        "presenceConfirmedOn": "2026-10-09",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "reported-2026-10-09-mirin",
+        "name": "mirin",
+        "category": "miscellaneous",
+        "quantity": null,
+        "storage": "per package instructions; actual location unspecified",
+        "status": "available",
+        "reportedOn": "2026-10-09",
+        "presenceConfirmedOn": "2026-10-09",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "reported-2026-10-09-mayonnaise",
+        "name": "mayonnaise",
+        "category": "miscellaneous",
+        "quantity": null,
+        "storage": "per package instructions; actual location unspecified",
+        "status": "available",
+        "reportedOn": "2026-10-09",
+        "presenceConfirmedOn": "2026-10-09",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "reported-2026-10-09-gochujang",
+        "name": "gochujang",
+        "category": "miscellaneous",
+        "quantity": null,
+        "storage": "per package instructions; actual location unspecified",
+        "status": "available",
+        "reportedOn": "2026-10-09",
+        "presenceConfirmedOn": "2026-10-09",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "reported-2026-10-09-hoisin-sauce",
+        "name": "hoisin sauce",
+        "category": "miscellaneous",
+        "quantity": null,
+        "storage": "per package instructions; actual location unspecified",
+        "status": "available",
+        "reportedOn": "2026-10-09",
+        "presenceConfirmedOn": "2026-10-09",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "reported-2026-10-09-baking-soda",
+        "name": "baking soda",
+        "category": "miscellaneous",
+        "quantity": null,
+        "storage": "per package instructions; actual location unspecified",
+        "status": "available",
+        "reportedOn": "2026-10-09",
+        "presenceConfirmedOn": "2026-10-09",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "reported-2026-10-09-baking-powder",
+        "name": "baking powder",
+        "category": "miscellaneous",
+        "quantity": null,
+        "storage": "per package instructions; actual location unspecified",
+        "status": "available",
+        "reportedOn": "2026-10-09",
         "presenceConfirmedOn": "2026-10-09",
         "estimatedUseBy": null
       }
