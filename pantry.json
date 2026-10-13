@@ -1,6 +1,6 @@
 {
   "pantry": {
-    "updatedOn": "2026-10-12",
+    "updatedOn": "2026-10-13",
     "items": [
       {
         "id": "ref-20260924-01",
@@ -253,10 +253,15 @@
         "id": "ref-20260924-18",
         "name": "egg noodles",
         "category": "carbs",
-        "quantity": null,
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
         "storage": "refrigerator expected; unconfirmed",
+        "status": "depleted",
         "snapshotStatus": "not_reconfirmed_oct8",
         "reportedOn": "2026-09-24",
+        "quantityConfirmedAt": "2026-10-13T13:17:45.286596-04:00",
         "estimatedUseBy": null,
         "estimateType": "needs_cooking_date"
       },
@@ -703,12 +708,15 @@
         "id": "snapshot-20261008-4",
         "name": "sausage",
         "category": "protein",
-        "quantity": null,
+        "quantity": {
+          "amount": 0,
+          "unit": "remaining stock"
+        },
         "storage": "refrigerator",
-        "status": "available",
+        "status": "depleted",
         "snapshotStatus": "confirmed_oct8",
         "reportedOn": "2026-10-08",
-        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "quantityConfirmedAt": "2026-10-13T13:17:45.286596-04:00",
         "presenceConfirmedOn": "2026-10-08",
         "estimatedUseBy": "2026-10-08",
         "estimateType": "user_use_by"
