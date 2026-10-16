@@ -1,6 +1,6 @@
 {
   "pantry": {
-    "updatedOn": "2026-10-13",
+    "updatedOn": "2026-10-16",
     "items": [
       {
         "id": "ref-20260924-01",
@@ -37,14 +37,14 @@
         "name": "baby carrots",
         "category": "vegetables",
         "quantity": {
-          "amount": 1,
-          "unit": "small packet"
+          "amount": 0,
+          "unit": "remaining stock"
         },
         "storage": "refrigerator",
-        "status": "available",
+        "status": "depleted",
         "snapshotStatus": "confirmed_oct8",
         "reportedOn": "2026-09-24",
-        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "quantityConfirmedAt": "2026-10-16T10:41:42.334613-04:00",
         "presenceConfirmedOn": "2026-10-08",
         "estimatedUseBy": "2026-09-27",
         "estimateType": "prepared_quality_review"
@@ -270,15 +270,14 @@
         "name": "linguine",
         "category": "carbs",
         "quantity": {
-          "amount": 0.25,
-          "unit": "of pasta remaining",
-          "display": "\u00bc remaining (reference amount unspecified)"
+          "amount": 0,
+          "unit": "remaining stock"
         },
         "storage": "refrigerator",
-        "status": "available",
+        "status": "depleted",
         "snapshotStatus": "confirmed_oct8",
         "reportedOn": "2026-09-24",
-        "quantityConfirmedAt": "2026-10-08T17:26:41-04:00",
+        "quantityConfirmedAt": "2026-10-16T10:41:42.334613-04:00",
         "presenceConfirmedOn": "2026-10-08",
         "estimatedUseBy": null,
         "estimateType": "label_review_not_expiry"
@@ -375,8 +374,8 @@
         "status": "available",
         "snapshotStatus": "confirmed_oct8",
         "reportedOn": "2026-09-24",
-        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
-        "presenceConfirmedOn": "2026-10-08",
+        "quantityConfirmedAt": "2026-10-16T10:41:42.334613-04:00",
+        "presenceConfirmedOn": "2026-10-16",
         "estimatedUseBy": "2026-09-27",
         "estimateType": "quality_review"
       },
@@ -417,11 +416,13 @@
           "amount": 1,
           "unit": "lb"
         },
-        "storage": "refrigerator",
+        "storage": "freezer",
+        "status": "available",
         "snapshotStatus": "not_reconfirmed_oct8",
         "reportedOn": "2026-09-27",
-        "estimatedUseBy": "2026-10-04",
-        "estimateType": "label_review"
+        "presenceConfirmedOn": "2026-10-16",
+        "estimatedUseBy": null,
+        "estimateType": "frozen_date_unknown"
       },
       {
         "id": "receipt-20260927-04",
@@ -456,12 +457,14 @@
         "name": "aloe vera drink",
         "category": "miscellaneous",
         "quantity": {
-          "amount": 1.5,
-          "unit": "L"
+          "amount": 0,
+          "unit": "remaining stock"
         },
         "storage": "per label; refrigerate after opening",
+        "status": "depleted",
         "snapshotStatus": "not_reconfirmed_oct8",
         "reportedOn": "2026-09-27",
+        "quantityConfirmedAt": "2026-10-16T10:41:42.334613-04:00",
         "estimatedUseBy": "2026-10-04",
         "estimateType": "label_review"
       },
@@ -700,8 +703,8 @@
         "status": "available",
         "snapshotStatus": "confirmed_oct8",
         "reportedOn": "2026-10-08",
-        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
-        "presenceConfirmedOn": "2026-10-08",
+        "quantityConfirmedAt": "2026-10-16T10:41:42.334613-04:00",
+        "presenceConfirmedOn": "2026-10-16",
         "estimatedUseBy": null
       },
       {
@@ -758,14 +761,14 @@
         "name": "sliced ham",
         "category": "protein",
         "quantity": {
-          "amount": 32,
-          "unit": "oz"
+          "amount": 0,
+          "unit": "remaining stock"
         },
         "storage": "refrigerator",
-        "status": "available",
+        "status": "depleted",
         "snapshotStatus": "confirmed_oct8",
         "reportedOn": "2026-10-08",
-        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "quantityConfirmedAt": "2026-10-16T10:41:42.334613-04:00",
         "presenceConfirmedOn": "2026-10-08",
         "estimatedUseBy": null
       },
@@ -774,14 +777,14 @@
         "name": "hummus",
         "category": "miscellaneous",
         "quantity": {
-          "amount": 0.5,
-          "unit": "container"
+          "amount": 0,
+          "unit": "remaining stock"
         },
         "storage": "refrigerator",
-        "status": "available",
+        "status": "depleted",
         "snapshotStatus": "confirmed_oct8",
         "reportedOn": "2026-10-08",
-        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "quantityConfirmedAt": "2026-10-16T10:41:42.334613-04:00",
         "presenceConfirmedOn": "2026-10-08",
         "estimatedUseBy": null
       },
@@ -830,7 +833,7 @@
         "snapshotStatus": "confirmed_oct8",
         "reportedOn": "2026-10-08",
         "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
-        "presenceConfirmedOn": "2026-10-08",
+        "presenceConfirmedOn": "2026-10-16",
         "estimatedUseBy": null
       },
       {
