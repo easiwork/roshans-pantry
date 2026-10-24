@@ -746,14 +746,14 @@
         "name": "eggs",
         "category": "protein",
         "quantity": {
-          "amount": 12,
-          "unit": "eggs"
+          "amount": 0,
+          "unit": "remaining stock"
         },
         "storage": "refrigerator",
-        "status": "available",
+        "status": "depleted",
         "snapshotStatus": "confirmed_oct8",
         "reportedOn": "2026-10-08",
-        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "quantityConfirmedAt": "2026-10-23T20:40:30.277444-04:00",
         "presenceConfirmedOn": "2026-10-08",
         "estimatedUseBy": null
       },
@@ -857,13 +857,13 @@
         "name": "baby bella mushrooms",
         "category": "vegetables",
         "quantity": {
-          "amount": 1,
-          "unit": "packet"
+          "amount": 0,
+          "unit": "remaining stock"
         },
         "storage": "refrigerator assumed",
-        "status": "available",
+        "status": "depleted",
         "reportedOn": "2026-10-09",
-        "quantityConfirmedAt": "2026-10-09T12:13:34.480061-04:00",
+        "quantityConfirmedAt": "2026-10-23T20:40:30.277444-04:00",
         "presenceConfirmedOn": "2026-10-09",
         "estimatedUseBy": null
       },
