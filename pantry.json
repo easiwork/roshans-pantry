@@ -1,6 +1,6 @@
 {
   "pantry": {
-    "updatedOn": "2026-10-16",
+    "updatedOn": "2026-10-23",
     "items": [
       {
         "id": "ref-20260924-01",
@@ -398,13 +398,14 @@
         "name": "napa cabbage",
         "category": "vegetables",
         "quantity": {
-          "amount": 0.5,
-          "unit": "head"
+          "amount": 0,
+          "unit": "remaining stock"
         },
         "storage": "refrigerator",
+        "status": "depleted",
         "snapshotStatus": "not_reconfirmed_oct8",
         "reportedOn": "2026-09-27",
-        "quantityConfirmedAt": "2026-09-27T23:09:38-04:00",
+        "quantityConfirmedAt": "2026-10-23T20:36:36.323153-04:00",
         "estimatedUseBy": "2026-10-04",
         "estimateType": "quality_review"
       },
@@ -793,14 +794,14 @@
         "name": "corn on the cob",
         "category": "vegetables",
         "quantity": {
-          "amount": 4,
-          "unit": "ears"
+          "amount": 0,
+          "unit": "remaining stock"
         },
         "storage": "refrigerator",
-        "status": "available",
+        "status": "depleted",
         "snapshotStatus": "confirmed_oct8",
         "reportedOn": "2026-10-08",
-        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "quantityConfirmedAt": "2026-10-23T20:36:36.323153-04:00",
         "presenceConfirmedOn": "2026-10-08",
         "estimatedUseBy": null
       },
@@ -809,14 +810,14 @@
         "name": "bell peppers",
         "category": "vegetables",
         "quantity": {
-          "amount": 3,
+          "amount": 1,
           "unit": "peppers"
         },
         "storage": "refrigerator",
         "status": "available",
         "snapshotStatus": "confirmed_oct8",
         "reportedOn": "2026-10-08",
-        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "quantityConfirmedAt": "2026-10-23T20:36:36.323153-04:00",
         "presenceConfirmedOn": "2026-10-08",
         "estimatedUseBy": null
       },
@@ -825,14 +826,14 @@
         "name": "salad mix",
         "category": "vegetables",
         "quantity": {
-          "amount": 1,
-          "unit": "package"
+          "amount": 0,
+          "unit": "remaining stock"
         },
         "storage": "refrigerator",
-        "status": "available",
+        "status": "depleted",
         "snapshotStatus": "confirmed_oct8",
         "reportedOn": "2026-10-08",
-        "quantityConfirmedAt": "2026-10-08T07:38:34-04:00",
+        "quantityConfirmedAt": "2026-10-23T20:36:36.323153-04:00",
         "presenceConfirmedOn": "2026-10-16",
         "estimatedUseBy": null
       },
@@ -941,6 +942,203 @@
         "status": "available",
         "reportedOn": "2026-10-09",
         "presenceConfirmedOn": "2026-10-09",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "receipt-20261023-cann-grapefruit",
+        "name": "Cann Hi Boy grapefruit drink",
+        "category": "miscellaneous",
+        "quantity": {
+          "amount": 1,
+          "unit": "can"
+        },
+        "storage": "per label",
+        "status": "available",
+        "reportedOn": "2026-10-23",
+        "quantityConfirmedAt": "2026-10-23T20:36:36.323153-04:00",
+        "presenceConfirmedOn": "2026-10-23",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "receipt-20261023-elbows",
+        "name": "De Cecco elbow pasta",
+        "category": "carbs",
+        "quantity": {
+          "amount": 1,
+          "unit": "package (weight unspecified)"
+        },
+        "storage": "pantry",
+        "status": "available",
+        "reportedOn": "2026-10-23",
+        "quantityConfirmedAt": "2026-10-23T20:36:36.323153-04:00",
+        "presenceConfirmedOn": "2026-10-23",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "receipt-20261023-brownie",
+        "name": "brownie mix (BC DLT BROWNIE)",
+        "category": "miscellaneous",
+        "quantity": {
+          "amount": 1,
+          "unit": "package (size unspecified)"
+        },
+        "storage": "pantry",
+        "status": "available",
+        "reportedOn": "2026-10-23",
+        "quantityConfirmedAt": "2026-10-23T20:36:36.323153-04:00",
+        "presenceConfirmedOn": "2026-10-23",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "receipt-20261023-vinegar",
+        "name": "Heinz distilled white vinegar",
+        "category": "miscellaneous",
+        "quantity": {
+          "amount": 1,
+          "unit": "bottle (volume unspecified)"
+        },
+        "storage": "pantry",
+        "status": "available",
+        "reportedOn": "2026-10-23",
+        "quantityConfirmedAt": "2026-10-23T20:36:36.323153-04:00",
+        "presenceConfirmedOn": "2026-10-23",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "receipt-20261023-beef-1",
+        "name": "ground beef",
+        "category": "protein",
+        "quantity": {
+          "amount": 1,
+          "unit": "package (weight unspecified)"
+        },
+        "storage": "refrigerator assumed",
+        "status": "available",
+        "reportedOn": "2026-10-23",
+        "quantityConfirmedAt": "2026-10-23T20:36:36.323153-04:00",
+        "presenceConfirmedOn": "2026-10-23",
+        "estimatedUseBy": "2026-10-25",
+        "estimateType": "conditional_use_or_freeze_target"
+      },
+      {
+        "id": "receipt-20261023-beef-2",
+        "name": "ground beef",
+        "category": "protein",
+        "quantity": {
+          "amount": 1,
+          "unit": "package (weight unspecified)"
+        },
+        "storage": "refrigerator assumed",
+        "status": "available",
+        "reportedOn": "2026-10-23",
+        "quantityConfirmedAt": "2026-10-23T20:36:36.323153-04:00",
+        "presenceConfirmedOn": "2026-10-23",
+        "estimatedUseBy": "2026-10-25",
+        "estimateType": "conditional_use_or_freeze_target"
+      },
+      {
+        "id": "receipt-20261023-spaghetti",
+        "name": "Barilla thick spaghetti",
+        "category": "carbs",
+        "quantity": {
+          "amount": 1,
+          "unit": "package (weight unspecified)"
+        },
+        "storage": "pantry",
+        "status": "available",
+        "reportedOn": "2026-10-23",
+        "quantityConfirmedAt": "2026-10-23T20:36:36.323153-04:00",
+        "presenceConfirmedOn": "2026-10-23",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "receipt-20261023-linguine",
+        "name": "Barilla linguine",
+        "category": "carbs",
+        "quantity": {
+          "amount": 1,
+          "unit": "package (weight unspecified)"
+        },
+        "storage": "pantry",
+        "status": "available",
+        "reportedOn": "2026-10-23",
+        "quantityConfirmedAt": "2026-10-23T20:36:36.323153-04:00",
+        "presenceConfirmedOn": "2026-10-23",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "receipt-20261023-asparagus",
+        "name": "asparagus",
+        "category": "vegetables",
+        "quantity": {
+          "amount": 1.01,
+          "unit": "lb"
+        },
+        "storage": "refrigerator assumed",
+        "status": "available",
+        "reportedOn": "2026-10-23",
+        "quantityConfirmedAt": "2026-10-23T20:36:36.323153-04:00",
+        "presenceConfirmedOn": "2026-10-23",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "receipt-20261023-beans",
+        "name": "Pero green beans",
+        "category": "vegetables",
+        "quantity": {
+          "amount": 1,
+          "unit": "package (weight unspecified)"
+        },
+        "storage": "refrigerator assumed",
+        "status": "available",
+        "reportedOn": "2026-10-23",
+        "quantityConfirmedAt": "2026-10-23T20:36:36.323153-04:00",
+        "presenceConfirmedOn": "2026-10-23",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "receipt-20261023-eggs",
+        "name": "eggs",
+        "category": "protein",
+        "quantity": {
+          "amount": 1,
+          "unit": "carton (egg count unspecified)"
+        },
+        "storage": "refrigerator assumed",
+        "status": "available",
+        "reportedOn": "2026-10-23",
+        "quantityConfirmedAt": "2026-10-23T20:36:36.323153-04:00",
+        "presenceConfirmedOn": "2026-10-23",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "receipt-20261023-mushrooms",
+        "name": "Giorgio baby bella mushrooms",
+        "category": "vegetables",
+        "quantity": {
+          "amount": 1,
+          "unit": "package (weight unspecified)"
+        },
+        "storage": "refrigerator assumed",
+        "status": "available",
+        "reportedOn": "2026-10-23",
+        "quantityConfirmedAt": "2026-10-23T20:36:36.323153-04:00",
+        "presenceConfirmedOn": "2026-10-23",
+        "estimatedUseBy": null
+      },
+      {
+        "id": "receipt-20261023-cann-yuzu",
+        "name": "Cann Hi Boy yuzu drink",
+        "category": "miscellaneous",
+        "quantity": {
+          "amount": 1,
+          "unit": "can"
+        },
+        "storage": "per label",
+        "status": "available",
+        "reportedOn": "2026-10-23",
+        "quantityConfirmedAt": "2026-10-23T20:36:36.323153-04:00",
+        "presenceConfirmedOn": "2026-10-23",
         "estimatedUseBy": null
       }
     ]
